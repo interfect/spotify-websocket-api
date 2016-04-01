@@ -9,7 +9,6 @@ env:
    - secure: "QIuTjPHCCLDqhrjwJtZLdtQKkmwCXKXT9LC0zCr1yfWK+DpLfpFB/LkD9ca+\nZ0bsZ9NM0X4t+R5hAEBTRcIOoVEtutOb4MOlYK5j1uHsNVjDC9nB1+OTqEyK\nURlw2AQTzFNs++LQnfXe8QAd9VLu+wJ5NAjH0tX28Xje95humuE="
 
 install:
- - deactivate
  - sudo -E ./install-deps.sh
 
 script: python$TRAVIS_PYTHON_VERSION test.py -v
