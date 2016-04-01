@@ -1,4 +1,4 @@
-Spotify WebSocket API [![Build Status](https://travis-ci.org/Hexxeh/spotify-websocket-api.png?branch=master)](https://travis-ci.org/Hexxeh/spotify-websocket-api)
+Spotify WebSocket API [![Build Status](https://travis-ci.org/interfect/spotify-websocket-api.png?branch=master)](https://travis-ci.org/interfect/spotify-websocket-api)
 =====================
 
 Getting started
