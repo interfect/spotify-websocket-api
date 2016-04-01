@@ -11,4 +11,4 @@ env:
 install:
  - sudo -E ./install-deps.sh
 
-script: python$TRAVIS_PYTHON_VERSION test.py -v
+script: python test.py -v
